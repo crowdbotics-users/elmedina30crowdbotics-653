@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT elmedina30crowdbotics_653.wsgi:application
